@@ -7,16 +7,23 @@
 #### 最基本的 HTML格式 <a id="zui-ji-ben-de-html-ge-shi"></a>
 
 ```text
-<!DOCTYPE html><html>  <head>    <title>Page Title</title>  </head>​  <body>    <h1>This is a Heading</h1>    <p>This is a paragraph.</p>  </body></html>​
+<!DOCTYPE html><html<!DOCTYPE html>
+<html>
+  <head>
+    <title>Page Title</title>
+  </head>
+
+  <body>
+    <h1>This is a Heading</h1>
+    <p>This is a paragraph.</p>
+  </body>
+</html>
+‌
 ```
 
-‌
+#### 存成.html檔後用瀏覽器打開的結果就會是下面這樣HTML Tag _**通常**_ 都是成雙成對的  <a id="html-tag-tong-chang-du-shi-cheng-shuang-cheng-dui-de"></a>
 
-存成.html檔後用瀏覽器打開的結果就會是下面這樣![](https://gblobscdn.gitbook.com/assets%2F-MECcvVVhu0QbPDq5qlH%2F-MECm_refIKQPwgN1JCY%2F-MECn-R91aGkbB-YUq-D%2F%E6%88%AA%E5%9C%96%202020-08-08%20%E4%B8%8B%E5%8D%887.18.12.png?alt=media&token=98b544a0-3c13-4c99-a7cd-d44496784509)Basic HTML‌
-
-#### HTML Tag _**通常**_ 都是成雙成對的  <a id="html-tag-tong-chang-du-shi-cheng-shuang-cheng-dui-de"></a>
-
-‌
+![](.gitbook/assets/jie-tu-20200808-xia-wu-7.18.12%20%281%29.png)
 
 由兩個角括號圍繞起來的就成為Tag\(標籤\)‌
 
@@ -58,13 +65,9 @@
 
 ## HTML attribute <a id="html-attribute"></a>
 
-‌
+‌\#\#\#Attribute（特性\) 
 
-#### Attribute（特性\)  <a id="attribute-te-xing"></a>
-
-‌
-
-~~不是attitude \(態度）~~‌
+‌~~不是attitude \(態度）~~‌
 
 attribute特性由HTML定義，所有出現在HTML標籤內的描述節點都是attribute特性。
 
